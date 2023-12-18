@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flyer-con{
+    height: 100vh;
+    width: 40vw;
+    background-color: rgb(251, 249, 247);
+}
+
+.flyer-text{
+    height: 100vh;
+    background-color: darkblue;
+
+}
+
+
+.flyer-text h5{
+    color: rgb(217, 217, 8); 
+    font-weight: bold;
+}
+
+.flyer-text h4{
+    color: white;
+    font-weight: bold; 
+}
+
+.flyer-text h3{
+    color: rgb(217, 217, 8); 
+    font-weight: bold; 
+}
+
+.flyer-text h2{
+    color: white; 
+    font-weight: bold;
+}
+
+.btn1{
+    color: white;
+    width: 13vw;
+    height: 30px;
+    background-color: rgb(172, 172, 6);
+    border: none;
+    border-radius: 2px;
+    font-size: larger;
+}
+
+.btn2{
+    color: white;
+    background-color: rgb(172, 172, 6);
+    border: none;
+    width: 10vw;
+    height: 30px;
+    border-radius: 2px;
+    font-size: larger;
+}
+
+/* .modest-img{
+    
+} */
+
+.flyer-img{
+    border-radius: 50%; 
+    border: 10px solid darkblue;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    /* margin: 0px 40px 10px 10px; */
+
+}
+
+.modest-img{
+    margin-top: 45px;
+}
+
+.modest{
+    height: 260px;
+    width: 260px;
+    background-color: white;
+    border: 2px solid rgb(241, 241, 246);
+    border-radius: 50%;
+    float: right;
+}
+
+.modest1{
+    height: 260px;
+    width: 260px;
+    background-color: white;
+    border: 2px solid rgb(241, 241, 246);
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    /* top: 90px; */
+}
+
+
+.log{
+    margin-left: 40px;
+     color: darkblue; 
+    font-size: larger;
+}
